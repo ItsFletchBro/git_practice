@@ -1,1 +1,0 @@
-Hello Gitr and GitHub
